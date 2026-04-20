@@ -8,4 +8,4 @@ Se agrega nuevo archio img2 a assets
 Se modifica nombre de página a Desafio 5
 Se agrega archivo de texto Modificaciones
 Cambia datos personales
-Cambia imágen de perfíl
+Cambia imágen de perfílcode .code.
